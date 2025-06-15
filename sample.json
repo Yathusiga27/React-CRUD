@@ -1,0 +1,13 @@
+[
+    {"id":1,"name":"Ramky","age":"26","city":"Salem"},
+    {"id":3,"name":"Sam","age":22,"city":"Banglore"},
+    {"id":5,"name":"Sundar","age":45,"city":"Salem"},
+    {"id":6,"name":"Bala","age":5,"city":"Salem"},
+    {"id":7,"name":"Ameer","age":44,"city":"Chennai"},
+    {"id":8,"name":"Tiya","age":22,"city":"Banglore"},
+    {"id":9,"name":"Zara","age":15,"city":"Mosure"},
+    {"id":10,"name":"Rakesh","age":25,"city":"Chennai"},
+    {"id":1749905987937,"name":"Aadhav","age":"26","city":"Mumbai"},
+    {"id":1749906079362,"name":"Shalini","age":"24","city":"Mumbai"},
+    {"id":1749961489685,"name":"Arun","age":"33","city":"Salem"}
+]
